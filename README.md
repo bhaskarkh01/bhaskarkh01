@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Rust and Solana  
   
 
-- ❓ Ask me about anything related to Rust & Solana  
+- ❓ Ask me about anything related to Blockchain & Web 3.0  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
